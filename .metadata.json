@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "package": "tableone",
+    "oncran": false,
+    "releasetag": true
+  }
+]
