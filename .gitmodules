@@ -7,5 +7,10 @@
 	path = tableone
 	url = https://github.com/bristol-vaccine-centre/tableone
 	shallow = true
-	branch = *release
+	branch = 0.1.0
 	registered = true
+[submodule "huxtable"]
+	path = huxtable
+	url = https://github.com/hughjonesd/huxtable
+	shallow = true
+	registered = false
