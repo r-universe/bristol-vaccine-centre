@@ -13,7 +13,7 @@
 	path = growthrates
 	url = https://github.com/bristol-vaccine-centre/growthrates
 	shallow = true
-	branch = *release
+	branch = 0.0.1
 	registered = true
 [submodule "huxtable"]
 	path = huxtable
