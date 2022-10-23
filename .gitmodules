@@ -9,6 +9,12 @@
 	shallow = true
 	branch = 0.1.0
 	registered = true
+[submodule "growthrates"]
+	path = growthrates
+	url = https://github.com/bristol-vaccine-centre/growthrates
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "huxtable"]
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable

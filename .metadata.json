@@ -3,5 +3,10 @@
     "package": "tableone",
     "oncran": false,
     "releasetag": true
+  },
+  {
+    "package": "growthrates",
+    "oncran": false,
+    "releasetag": true
   }
 ]
