@@ -11,5 +11,8 @@
   },
   {
     "package": "modelfitter"
+  },
+  {
+    "package": "avoncap"
   }
 ]

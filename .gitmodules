@@ -20,6 +20,11 @@
 	url = https://github.com/bristol-vaccine-centre/modelfitter
 	shallow = true
 	registered = true
+[submodule "avoncap"]
+	path = avoncap
+	url = https://github.com/bristol-vaccine-centre/avoncap
+	shallow = true
+	registered = true
 [submodule "huxtable"]
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
