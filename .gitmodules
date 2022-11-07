@@ -7,7 +7,7 @@
 	path = tableone
 	url = https://github.com/bristol-vaccine-centre/tableone
 	shallow = true
-	branch = 0.1.0
+	branch = 0.1.1
 	registered = true
 [submodule "growthrates"]
 	path = growthrates
