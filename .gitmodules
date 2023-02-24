@@ -13,7 +13,7 @@
 	path = growthrates
 	url = https://github.com/bristol-vaccine-centre/growthrates
 	shallow = true
-	branch = 0.0.1
+	branch = 0.0.2
 	registered = true
 [submodule "modelfitter"]
 	path = modelfitter
