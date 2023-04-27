@@ -15,6 +15,12 @@
 	shallow = true
 	branch = 0.0.2
 	registered = true
+[submodule "rsurvstat"]
+	path = rsurvstat
+	url = https://github.com/bristol-vaccine-centre/rsurvstat
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "modelfitter"]
 	path = modelfitter
 	url = https://github.com/bristol-vaccine-centre/modelfitter

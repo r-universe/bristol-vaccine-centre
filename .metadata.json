@@ -6,5 +6,9 @@
   {
     "package": "growthrates",
     "releasetag": true
+  },
+  {
+    "package": "rsurvstat",
+    "releasetag": true
   }
 ]
