@@ -19,7 +19,7 @@
 	path = rsurvstat
 	url = https://github.com/bristol-vaccine-centre/rsurvstat
 	shallow = true
-	branch = *release
+	branch = 0.0.4
 	registered = true
 [submodule "modelfitter"]
 	path = modelfitter
