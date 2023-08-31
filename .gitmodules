@@ -18,7 +18,6 @@
 [submodule "pkgutils"]
 	path = pkgutils
 	url = https://github.com/bristol-vaccine-centre/pkgutils
-	registered = false
 [submodule "rsurvstat"]
 	path = rsurvstat
 	url = https://github.com/bristol-vaccine-centre/rsurvstat
