@@ -10,5 +10,11 @@
     "url": "https://github.com/bristol-vaccine-centre/pkgutils",
     "via": ["testerror"],
     "from": "testerror"
+  },
+  {
+    "package": "tableone",
+    "url": "https://github.com/bristol-vaccine-centre/tableone",
+    "via": ["modelfitter"],
+    "from": "modelfitter"
   }
 ]
