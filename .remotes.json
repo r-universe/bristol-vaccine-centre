@@ -2,6 +2,12 @@
   {
     "package": "interfacer",
     "url": "https://github.com/bristol-vaccine-centre/interfacer",
+    "via": ["growthrates"],
+    "from": "growthrates"
+  },
+  {
+    "package": "interfacer",
+    "url": "https://github.com/bristol-vaccine-centre/interfacer",
     "via": ["testerror"],
     "from": "testerror"
   },
