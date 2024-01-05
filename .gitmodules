@@ -8,7 +8,7 @@
 [submodule "growthrates"]
 	path = growthrates
 	url = https://github.com/bristol-vaccine-centre/growthrates
-	branch = 0.1.1
+	branch = 0.1.2
 [submodule "interfacer"]
 	path = interfacer
 	url = https://github.com/bristol-vaccine-centre/interfacer
