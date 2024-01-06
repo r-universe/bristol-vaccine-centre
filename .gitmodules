@@ -26,7 +26,7 @@
 [submodule "tableone"]
 	path = tableone
 	url = https://github.com/bristol-vaccine-centre/tableone
-	branch = 0.4.2
+	branch = 0.4.3
 [submodule "testerror"]
 	path = testerror
 	url = https://github.com/bristol-vaccine-centre/testerror
