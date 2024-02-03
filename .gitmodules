@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/bristol-vaccine-centre/universe
+	url = https://github.com/bristol-vaccine-centre/bristol-vaccine-centre.r-universe.dev
 	branch = HEAD
 [submodule "avoncap"]
 	path = avoncap
