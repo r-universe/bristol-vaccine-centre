@@ -19,6 +19,7 @@
 [submodule "pkgutils"]
 	path = pkgutils
 	url = https://github.com/bristol-vaccine-centre/pkgutils
+	branch = *release
 [submodule "rsurvstat"]
 	path = rsurvstat
 	url = https://github.com/bristol-vaccine-centre/rsurvstat
@@ -30,3 +31,4 @@
 [submodule "testerror"]
 	path = testerror
 	url = https://github.com/bristol-vaccine-centre/testerror
+	branch = *release

@@ -14,5 +14,13 @@
   {
     "package": "interfacer",
     "releasetag": true
+  },
+  {
+    "package": "pkgutils",
+    "releasetag": true
+  },
+  {
+    "package": "testerror",
+    "releasetag": true
   }
 ]
