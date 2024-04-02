@@ -12,14 +12,14 @@
 [submodule "interfacer"]
 	path = interfacer
 	url = https://github.com/bristol-vaccine-centre/interfacer
-	branch = 0.1.6
+	branch = 0.1.7
 [submodule "modelfitter"]
 	path = modelfitter
 	url = https://github.com/bristol-vaccine-centre/modelfitter
 [submodule "pkgutils"]
 	path = pkgutils
 	url = https://github.com/bristol-vaccine-centre/pkgutils
-	branch = *release
+	branch = 0.1.0
 [submodule "rsurvstat"]
 	path = rsurvstat
 	url = https://github.com/bristol-vaccine-centre/rsurvstat
@@ -31,4 +31,4 @@
 [submodule "testerror"]
 	path = testerror
 	url = https://github.com/bristol-vaccine-centre/testerror
-	branch = *release
+	branch = 0.0.2
