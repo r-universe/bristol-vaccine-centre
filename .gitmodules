@@ -23,7 +23,7 @@
 [submodule "rsurvstat"]
 	path = rsurvstat
 	url = https://github.com/bristol-vaccine-centre/rsurvstat
-	branch = 0.1.0
+	branch = 0.1.1
 [submodule "tableone"]
 	path = tableone
 	url = https://github.com/bristol-vaccine-centre/tableone
